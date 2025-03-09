@@ -1,4 +1,4 @@
-﻿namespace arrayInputAndOutput
+﻿namespace Calculator
 {
     internal class Program
     {
